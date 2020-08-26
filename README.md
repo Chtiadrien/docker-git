@@ -7,6 +7,7 @@ A docker image for running git available on
 
 ```bash
 $ git --version
+git version 2.26.2
 ```
 
 ## Contributing
